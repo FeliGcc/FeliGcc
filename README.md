@@ -5,7 +5,7 @@
 Привет! Я разработчик, работающий на языках **C** и **Python**. Имею опыт работы с **aiogram** и **ollama**. 
 
 <p align="center">
-  <img src="https://tenor.com/view/lain-serial-experiments-lain-anime-gif-13121566318544991597" alt="Lain" width="400"/>
+  <img src="lain-serial-experiments-lain.gif" alt="Lain" width="400"/>
 </p>
 
 ## Технологии и навыки
@@ -14,7 +14,7 @@
 - **ОС**: Arch Linux
 
 <p align="center">
-  <img src="https://tenor.com/view/tie-fighter-gif-19951844" alt="Goodbye!" width="400"/>
+  <img src="tie-fighter.gif" alt="Goodbye!" width="400"/>
 </p>
 
 
